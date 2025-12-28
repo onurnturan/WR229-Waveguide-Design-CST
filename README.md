@@ -36,4 +36,4 @@ s parameters
 
 ## Software Tools
 * **CST Studio Suite:** EM Simulation.
-* **MATLAB (Optional):** If used for post-processing data.
+
